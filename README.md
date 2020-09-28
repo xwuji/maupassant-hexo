@@ -1,8 +1,11 @@
 # Maupassant
+### 修改点
+- 更改SegmentFault主题色样式
+- 代码高亮更新暗夜版
+- 增加置顶和置顶标志
 
 [![Build Status](https://travis-ci.org/tufu9441/maupassant-hexo.svg?branch=master)](https://travis-ci.org/tufu9441/maupassant-hexo)   [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/tufu9441/maupassant-hexo/blob/master/LICENSE)
 
-> 大道至简
 
 [Preview](https://www.haomwei.com)｜[中文文档](https://www.haomwei.com/technology/maupassant-hexo.html)
 
