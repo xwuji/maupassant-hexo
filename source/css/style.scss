@@ -25,7 +25,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-size: 14px;
-  border-top: solid 3px #009A61;
+  border-top: solid 3px #1e80ff;
 }
 .body_container {
     padding: 0 60px;
@@ -45,7 +45,7 @@ a, button.submit {
     transition: all .1s ease-in;
 }
 a:hover, a:active {
-    color: #009A61;
+    color: #1e80ff;
 }
 a:focus {
     outline:auto;
@@ -57,7 +57,7 @@ div {
     box-sizing: border-box;
 }
 .vi-color{
-  color: #009A61;
+  color: #1e80ff;
 }
 #header {
     padding: 58px 0 0;
@@ -146,7 +146,7 @@ div {
           p.myname{
             margin-top: 10px;
             text-align: center;
-            color: #009A61;
+            color: #1e80ff;
             font-size: 14px;
             font-weight: bold;
           }
@@ -324,7 +324,7 @@ div {
                 font-family: Menlo, Consolas, monospace !important;
             }
             a {
-                color: #009A61;
+                color: #1e80ff;
                 padding-bottom: 2px;
                 word-break: normal;
                 text-decoration: underline;
@@ -406,7 +406,7 @@ div {
         text-align: center;
         &:hover {
             background: #F8F8F8;
-            border-bottom-color: #009A61;
+            border-bottom-color: #1e80ff;
         }
         &.prev {
             float: left;
@@ -427,7 +427,7 @@ div {
     }
     .current {
         background: #F8F8F8;
-        border-bottom-color: #009A61;
+        border-bottom-color: #1e80ff;
     }
     .space {
         border: none;
@@ -875,7 +875,7 @@ pre {
 .readmore a {
     font-size: 14px;
     background: #fff;
-    color: #009A61;
+    color: #1e80ff;
     margin: -10px 0;
     padding: 6px 10px;
     border-radius: 5px;
@@ -887,7 +887,7 @@ pre {
     }
     &:hover {
       color: #fff;
-      background: #009A61;
+      background: #1e80ff;
     }
 }
 
@@ -1600,7 +1600,7 @@ table {
     border-spacing: 0;
     text-align: left;
     thead{
-      background: #009A61;
+      background: #1e80ff;
       color: #fff;
       border-bottom: none;
       tr th{
@@ -1617,7 +1617,7 @@ table {
     }
     tr {
         &:nth-child(2n) {
-            background: rgba(217, 245, 234, 0.933);
+            background: #e8f3ff;
         }
     }
 }

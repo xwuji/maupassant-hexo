@@ -13,8 +13,8 @@ block content
         include _partial/helpers.pug
         a(href=url_for(post.path))
           if post.top
-            i.fa.fa-thumb-tack(style='color:#009A61')
-            font(color='009A61')  【置顶】  
+            i.fa.fa-thumb-tack(style='color:#1e80ff')
+            font(color='1e80ff')  【置顶】  
           +title(post)
       .post-meta= post.date.format(config.date_format)
       if theme.disqus
