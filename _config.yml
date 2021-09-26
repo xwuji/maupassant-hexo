@@ -58,7 +58,7 @@ donate:
 post_copyright:
   enable: true ## If you want to display the copyright info after each post, please set the value to true and fill the following items on your need.
   author: theo
-  copyright_text: aszero
+  copyright_text: theoCheung@China
 
 menu:
   - page: home

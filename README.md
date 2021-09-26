@@ -1,6 +1,6 @@
 # Maupassant
 ### 修改点
-- 更改SegmentFault主题色样式
+- 更改 ~~SegmentFault~~ 掘金主题色样式
 - 代码高亮更新暗夜版
 - 增加置顶和置顶标志
 
